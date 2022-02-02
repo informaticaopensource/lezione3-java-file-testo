@@ -1,0 +1,4 @@
+A001,abito,130.0,12
+C001,cappello,23.5,15
+C001,calzini,3.4,3
+R001,rolex,1000.0,3
